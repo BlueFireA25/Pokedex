@@ -1,0 +1,15 @@
+// app global css in SCSS form
+
+.bg-primary {
+  background: $primary !important;
+}
+
+.border {
+  border-color: #000000;
+  border-style: solid;
+  border-width: 2px;
+}
+
+.q-table__top {
+  background: #3b3b3b !important;
+}
