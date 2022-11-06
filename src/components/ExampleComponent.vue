@@ -16,7 +16,7 @@
           class="text-grey-1"
           borderless
           color="black"
-0          bg-color="amber-13"
+          bg-color="amber-13"
           dense
           debounce="300"
           rounded
